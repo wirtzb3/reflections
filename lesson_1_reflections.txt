@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It showed everything that was added and deleted between two versions.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If something breaks in your code, if you have all the versions, you can
+    compare the differences between the two files, rather than have to start over.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: You can manually choose when to commit, so you can pick saving when you
+    are going to try a new feature and see if it works. If it breaks, you know exactly
+    what you changed, so you can revert back to the old code.
+
+    Cons: You have to remember to commit. If you forget, you won't have any help with
+    version control.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    You can tie together all the files that are on the same website into one commit,
+    which makes for easier collaboration.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use git log to see the complete history of the files in the repository.
+    You can use git diff to see the difference between two close versions. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If you know you already have your files backed up, you can know that if you do try
+    something that breaks the code, you always can revert to the last saved version.
+    The ease of reverting back allows you to be more confident.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All front-end web development stuff, collaborating with others about my code.
