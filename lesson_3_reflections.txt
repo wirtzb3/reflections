@@ -3,3 +3,6 @@ A remote repository is great for collaboration. You can have multiple people wor
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   If you are collaborating with other people, you probably want to only pull when you have something working or have fixed a component, rather than just randomly pull requests. It helps you be more in control.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are a GitHub feature when you want to copy someone's repository into your own GitHub. You would want to fork when you want to use someone else's code, and give them credit for it. Clones are copies of a repository that you can take off GitHub and clone it to your local directory, and then change the code. You can also clone a forked directory, so that you are taking it off your own repository rather than someone else's. Branches are separate versions of the same file, and are used when you want to implement an entirely new feature rather than make small changes on the already existing document. 
