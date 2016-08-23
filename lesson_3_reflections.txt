@@ -1,8 +1,18 @@
 When would you want to use a remote repository rather than keeping all your work local?
-A remote repository is great for collaboration. You can have multiple people working within one repository. Also, you could use multiple computers for the same project. Local files do not travel well. 
+A remote repository is great for collaboration. You can have multiple people working within one repository. Also, you could use multiple computers for the same project. Local files do not travel well.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   If you are collaborating with other people, you probably want to only pull when you have something working or have fixed a component, rather than just randomly pull requests. It helps you be more in control.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-Forks are a GitHub feature when you want to copy someone's repository into your own GitHub. You would want to fork when you want to use someone else's code, and give them credit for it. Clones are copies of a repository that you can take off GitHub and clone it to your local directory, and then change the code. You can also clone a forked directory, so that you are taking it off your own repository rather than someone else's. Branches are separate versions of the same file, and are used when you want to implement an entirely new feature rather than make small changes on the already existing document. 
+Forks are a GitHub feature when you want to copy someone's repository into your own GitHub. You would want to fork when you want to use someone else's code, and give them credit for it. Clones are copies of a repository that you can take off GitHub and clone it to your local directory, and then change the code. You can also clone a forked directory, so that you are taking it off your own repository rather than someone else's. Branches are separate versions of the same file, and are used when you want to implement an entirely new feature rather than make small changes on the already existing document.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  It is beneficial because if you are not able to work online for awhile, you know to store it before that happens.
+  Being behind locally with no internet access would be very frustrating when you need to be able to work on your code,
+  but can't get to the latest version of a file, and have to redo things that you had previously done.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  I would use email. I would only want to collaborate with people where we all are working on different files,
+  as going through lines manually to see if different people have conflicting code would be difficult. The only thing
+  that would be easier is not having to learn GitHub. 
